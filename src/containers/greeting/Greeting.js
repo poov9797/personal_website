@@ -44,9 +44,11 @@ export default function Greeting() {
                   <a
                     href="https://s3.us-east-1.amazonaws.com/poovarasan.rajendiran/Poovarasan_Rajendiran.pdf"
                     target="_blank"
+                    rel="noopener noreferrer"
                     // href={require("./Poovarasan_Rajendiran.pdf")}
                     // download="Poovarasan_Rajendiran.pdf"
-                    className="view-link-button"
+                 
+                    className="download-link-button"
                   >
                     <Button text="View/Download my resume" />
                   </a>
