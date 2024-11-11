@@ -150,7 +150,7 @@ const workExperiences = {
       role: "Senior Systems Engineer",
       company: "Infosys Ltd",
       companylogo: require("./assets/images/infy_logo_wb.jpg"),
-      date: "JJune 2020 - September 2021",
+      date: "June 2020 - September 2021",
       desc: "Developed recommendation and fraud detection systems, boosting engagement by 25% and reducing fraud by 40% with advanced models. Built real-time analytics with Kafka and Spark, optimized ML pipelines, and scaled solutions to handle high request volumes with minimal latency."
     },
     {
