@@ -12,16 +12,16 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           {emoji("❤️ by Poov")}
         </p>
-        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Website theme available on {" "}
-          <a
-            href="https://github.com/poov9797"
-            target="_blank"
-            rel="noreferrer"
-          >
-            MyGitHub
-          </a>
-        </p>
+        // <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
+        //   Website theme available on {" "}
+        //   <a
+        //     href="https://github.com/poov9797"
+        //     target="_blank"
+        //     rel="noreferrer"
+        //   >
+        //     MyGitHub
+        //   </a>
+        // </p>
       </div>
     </Fade>
   );
