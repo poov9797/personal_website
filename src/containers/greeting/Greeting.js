@@ -42,12 +42,13 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    // href={require("https://s3.us-east-1.amazonaws.com/poovarasan.rajendiran/Poovarasan_Rajendiran.pdf")}
-                    href={require("./Poovarasan_Rajendiran.pdf")}
-                    download="Poovarasan_Rajendiran.pdf"
-                    className="download-link-button"
+                    href="https://s3.us-east-1.amazonaws.com/poovarasan.rajendiran/Poovarasan_Rajendiran.pdf"
+                    target="_blank"
+                    // href={require("./Poovarasan_Rajendiran.pdf")}
+                    // download="Poovarasan_Rajendiran.pdf"
+                    className="view-link-button"
                   >
-                    <Button text="Download my resume" />
+                    <Button text="View/Download my resume" />
                   </a>
                 )}
               </div>
