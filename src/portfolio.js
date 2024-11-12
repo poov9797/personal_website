@@ -23,7 +23,7 @@ const greeting = {
   username: "Poovarasan Rajedniran",
   title: "Hi ,I'm Poov",
   subTitle: emoji(
-    "A passionate Data Science professional 🚀 having an experience of building and deploying production grade machine learning applications with Langchain, Tensorflow, Docker, Kubernetes and some other cool libraries and frameworks."
+    "A passionate Data Science professional 🚀 with intense experience in building and deploying production grade machine learning applications with Langchain, Tensorflow, Docker, Kubernetes and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://s3.us-east-1.amazonaws.com/poovarasan.rajendiran/Poovarasan_Rajendiran.pdf", // Set to empty to hide the button
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Crazy enthusist of Machine Intelligence who wants to make great AI products",
+  subTitle: "Crazy enthusist of Machine Intelligence who makes great AI products",
   skills: [
     emoji(
       "⚡ Design and develope robust and scalable machine learning pipelines to automate the end-to-end ML workflow, from data ingestion to model deployment."
@@ -352,7 +352,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "poovarasan__r", //Replace "twitter" with your twitter username without @
-  display: false // Set true to display this section, defaults to false
+  display: true // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
