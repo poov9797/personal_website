@@ -56,7 +56,7 @@ const skillsSection = {
     ),
     emoji("⚡ Deliver tailored data science solutions"),
     emoji(
-      "⚡ Automate, integrate and maintain multiple-cloud infrastructure in AWS, Google cloud and Azure."
+      "⚡ Automate, integrate, and maintain infrastructure across multiple cloud platforms, such as AWS, Google Cloud, and Azure."
     )
   ],
 
