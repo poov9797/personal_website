@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Poovarasan Rajedniran",
+  username: "Poovarasan Rajendiran",
   title: "Hi ,I'm Poov",
   subTitle: emoji(
     "A passionate Data Science professional 🚀 with intense experience in building and deploying production grade machine learning applications with Langchain, Tensorflow, Docker, Kubernetes and some other cool libraries and frameworks."
